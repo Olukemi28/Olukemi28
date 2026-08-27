@@ -31,6 +31,22 @@ A healthcare analytics capstone project analysing telehealth monitoring alerts, 
 
 ➡️ [View the full project: VitaLink TeleHealth Solutions – Healthcare Alert Monitoring Dashboard](https://github.com/Olukemi28/healthcare-alert-monitoring-tableau)
 
+### 🌍 Global HIV Analytics - Power BI Dashboard
+
+A healthcare analytics project exploring global HIV trends, mortality, new infections, treatment coverage and survival outcomes across countries and continents using Power BI.
+
+**Tool:** Power BI
+
+**Key areas analysed:**
+- Global HIV prevalence and people living with HIV
+- Trends in new HIV infections and HIV related deaths
+- Treatment coverage across countries
+- Survival and mortality rates
+- Geographic differences in HIV outcomes
+- Deaths per 1,000 new infections
+
+📊 [View the full project: Global HIV Analytics - Power BI Dashboard](https://github.com/Olukemi28/global-hiv-analytics-powerbi)
+
 ## 🌱 Currently Developing
 
 I am continuing to build my healthcare data analytics portfolio through practical projects using Excel, SQL, Power BI and Tableau, with a focus on turning healthcare data into meaningful insights for decision makers.
